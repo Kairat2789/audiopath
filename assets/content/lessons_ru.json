@@ -1,0 +1,212 @@
+{
+  "lessons": [
+    {
+      "id": "sound_train",
+      "type": "sound",
+      "level": 1,
+      "audioAssets": [
+        "assets/audio/sound_train.wav"
+      ],
+      "imageAssets": [
+        "assets/images/train.png",
+        "assets/images/rain.png",
+        "assets/images/plane.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Train",
+        "kk": "Train"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_cow",
+      "type": "sound",
+      "level": 2,
+      "audioAssets": [
+        "assets/audio/sound_cow.wav"
+      ],
+      "imageAssets": [
+        "assets/images/cow.png",
+        "assets/images/train.png",
+        "assets/images/plane.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Cow",
+        "kk": "Cow"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_drum",
+      "type": "sound",
+      "level": 3,
+      "audioAssets": [
+        "assets/audio/sound_drum.wav"
+      ],
+      "imageAssets": [
+        "assets/images/drum.png",
+        "assets/images/piano.png",
+        "assets/images/rain.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Drum",
+        "kk": "Drum"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_car",
+      "type": "sound",
+      "level": 4,
+      "audioAssets": [
+        "assets/audio/sound_car.wav"
+      ],
+      "imageAssets": [
+        "assets/images/car.png",
+        "assets/images/rain.png",
+        "assets/images/cow.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Car",
+        "kk": "Car"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_dog",
+      "type": "sound",
+      "level": 5,
+      "audioAssets": [
+        "assets/audio/sound_dog.wav"
+      ],
+      "imageAssets": [
+        "assets/images/dog.png",
+        "assets/images/train.png",
+        "assets/images/car.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Dog",
+        "kk": "Dog"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_cat",
+      "type": "sound",
+      "level": 6,
+      "audioAssets": [
+        "assets/audio/sound_cat.wav"
+      ],
+      "imageAssets": [
+        "assets/images/cat.png",
+        "assets/images/bell.png",
+        "assets/images/bike.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Cat",
+        "kk": "Cat"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_rain",
+      "type": "sound",
+      "level": 7,
+      "audioAssets": [
+        "assets/audio/sound_rain.wav"
+      ],
+      "imageAssets": [
+        "assets/images/rain.png",
+        "assets/images/plane.png",
+        "assets/images/bike.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Rain",
+        "kk": "Rain"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    },
+    {
+      "id": "sound_bell",
+      "type": "sound",
+      "level": 8,
+      "audioAssets": [
+        "assets/audio/sound_bell.wav"
+      ],
+      "imageAssets": [
+        "assets/images/bell.png",
+        "assets/images/plane.png",
+        "assets/images/dog.png"
+      ],
+      "correctImageIndex": 0,
+      "title": {
+        "ru": "Bell",
+        "kk": "Bell"
+      },
+      "instruction": {
+        "ru": "Прослушайте звук и выберите правильную картинку.",
+        "kk": "Дыбысты тыңдап, дұрыс суретті таңдаңыз."
+      },
+      "hint": {
+        "ru": "Закройте глаза и слушайте.",
+        "kk": "Көзіңізді жұмып тыңдаңыз."
+      }
+    }
+  ]
+}
